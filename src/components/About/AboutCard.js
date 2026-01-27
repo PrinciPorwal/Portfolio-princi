@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Princi Porwal </span>
             from <span className="purple"> Uttar Pradesh, India.</span>
             <br />
-            I am currently pursuing my B.Tech in Electrical Engineering from NIT Agartala (2021-2025)
+            I completed my B.Tech in Electrical Engineering from NIT Agartala (2021-2025)
             <br />
 
             <br />
